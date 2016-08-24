@@ -17,7 +17,7 @@ To install bunt:
 
 To install credo:
 
-    git clone https://github.com/dlpil/credo
+    git clone https://github.com/rrrene/credo
     cd credo
     mix archive.build
     mix archive.install
@@ -35,4 +35,4 @@ configuration method.  You can register the package by calling:
 
 If you are using spacemacs, you can find a [contrib layer for using
 flycheck-elixir-credo
-[here](https://github.com/smeevil/flycheck-elixir-credo/blob/master/packages.el)
+[here](https://github.com/capitalist/flycheck-elixir-credo/blob/master/packages.el)
